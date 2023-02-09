@@ -33,7 +33,7 @@ div#background{
     margin: -8px;
     width: calc(100vw + 16px);
     height: calc(100vh + 16px);
-    background-image: url(img/background.jpg);
+    background-image: url(./img/background.jpg);
     filter: blur(8px);
     -webkit-filter: blur(8px);
     background-position: center;
@@ -120,6 +120,7 @@ header #login_box a{
 }
 
 div#general{
+    position: relative;
     width: 100vw;
     min-height: calc(100vh - 116px);
     margin-top: 116px;
