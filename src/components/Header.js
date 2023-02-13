@@ -9,7 +9,7 @@ export const Header = () =>{
     <header>
       <Nav />
       <Search />
-      <LoginButton />
+      
     </header>
     
   );

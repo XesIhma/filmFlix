@@ -1,7 +1,5 @@
 import React from 'react';
 
-import './app.css';
-
 export const Search = () =>{
   return(
     <div id="search_box">
